@@ -1,0 +1,4 @@
+com/bili/springcloud/service/DeptClientServiceFallbackFactory.class
+com/bili/springcloud/entities/Dept.class
+com/bili/springcloud/service/DeptClientServiceFallbackFactory$1.class
+com/bili/springcloud/service/DeptClientService.class
